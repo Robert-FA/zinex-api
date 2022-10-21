@@ -1,1 +1,1 @@
-# zinex-api
+# Zinex-Api
